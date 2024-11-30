@@ -1,1 +1,1 @@
-# DEPIProject
+# DEPI Project
